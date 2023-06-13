@@ -1,4 +1,4 @@
-Federated Learning on CIFAR-10 Dataset
+##Federated Learning on CIFAR-10 Dataset
 This project implements a federated learning algorithm on the CIFAR-10 dataset to solve a multiclass classification problem. The algorithm utilizes a client-server model with 20 clients and a central server. The clients are trained on a VGG-19 model architecture.
 
 Dataset
